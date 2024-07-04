@@ -1,0 +1,9 @@
+pandas
+numpy
+scipy
+nbformat
+matplotlib==3.7.0
+ydata_profiling
+streamlit
+streamlit_pandas_profiling
+bottleneck
